@@ -15,6 +15,7 @@ Project 1: Sales Analysis
 Developed a comprehensive report to analyze customer performance, tracking yearly progress and target achievements.
 Identified opportunities to optimize customer discounts and improve sales performance.
 Created a market performance vs. target report to highlight regions where AtliQ excels and areas needing attention.
+
 Project 2: Financial Analysis
 
 Designed detailed Profit and Loss (P&L) reports at yearly, monthly, and quarterly levels, as well as for different markets.
